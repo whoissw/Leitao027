@@ -18,5 +18,5 @@
   <img align="center" alt="Hunter-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hunter-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Hunter-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Hunter-React" height="35" width="45" src="https://cdn.discordapp.com/attachments/754777502903304344/1011748137158840461/luaxd.png">
+  <img align="center" alt="Hunter-React" height="40" width="50" src="https://cdn.discordapp.com/attachments/754777502903304344/1011748137158840461/luaxd.png">
 </div>
