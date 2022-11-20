@@ -9,9 +9,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leitao027&layout=compact&theme=tokyonight"/>
 </div>
 
-### Languages and Tools:
+### Tecnologias que trabalho:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,lua,py,react,ts,nodejs" />
   </a>
 </p>
